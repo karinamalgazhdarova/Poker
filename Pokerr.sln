@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokerr", "Pokerr\Pokerr.csproj", "{4F69F756-E5B6-47DC-8245-B3A08498D1DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F69F756-E5B6-47DC-8245-B3A08498D1DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F69F756-E5B6-47DC-8245-B3A08498D1DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F69F756-E5B6-47DC-8245-B3A08498D1DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F69F756-E5B6-47DC-8245-B3A08498D1DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D5EF21D-7C34-4B0F-B53A-376F765406DA}
+	EndGlobalSection
+EndGlobal
